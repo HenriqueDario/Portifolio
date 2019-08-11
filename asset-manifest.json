@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.4bd53da2.chunk.css",
+    "main.js": "/Portifolio/static/js/main.ecb0dd05.chunk.js",
+    "main.js.map": "/Portifolio/static/js/main.ecb0dd05.chunk.js.map",
+    "runtime~main.js": "/Portifolio/static/js/runtime~main.4eadf463.js",
+    "runtime~main.js.map": "/Portifolio/static/js/runtime~main.4eadf463.js.map",
+    "static/js/2.8d63160b.chunk.js": "/Portifolio/static/js/2.8d63160b.chunk.js",
+    "static/js/2.8d63160b.chunk.js.map": "/Portifolio/static/js/2.8d63160b.chunk.js.map",
+    "index.html": "/Portifolio/index.html",
+    "precache-manifest.7f767f6666c6b42de22ed23408c01cbb.js": "/Portifolio/precache-manifest.7f767f6666c6b42de22ed23408c01cbb.js",
+    "service-worker.js": "/Portifolio/service-worker.js",
+    "static/css/main.4bd53da2.chunk.css.map": "/Portifolio/static/css/main.4bd53da2.chunk.css.map",
+    "static/media/DarioProd.png": "/Portifolio/static/media/DarioProd.c6060c41.png"
+  }
+}
